@@ -2,6 +2,7 @@
   "name": "tailwind-css",
   "version": "0.1.0",
   "homepage": "",
+  "type": "module",
   "private": true,
   "dependencies": {
     "@craco/craco": "^6.4.0",
